@@ -1,7 +1,6 @@
 
 .vscode
 .ipynb_checkpoints
-*.pkl
 
 Dataset/*
 
